@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact - **Coding itself a fun**
 ## 📈Current Stats
-<p align="center"><img src="https://streak-stats.demolab.com?user=aquibHossain&theme=tokyonight&card_width=600&card_height=250)" alt="aayman01" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=aquibHossain&theme=tokyonight&card_width=600&card_height=250)" alt="aquibHossain" /></p>
 
 ## ⚒️Technologies And Skills
 <div align="center">

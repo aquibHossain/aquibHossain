@@ -1,17 +1,17 @@
-![logo](https://github.com/aayman01/aayman01/blob/main/Banner.png)
+![logo](https://github.com/aquibHossain/aquibHossain/blob/main/banner.png.png)
 ## 📌About Me
-- 🌱 I’m currently exploring - **Nextjs**
+- 🌱 I’m currently exploring - **Flutter**
 
-- 💬 Ask me about - **React,Html,Css**
+- 💬 Ask me about - **MARNS Stack**
 
-- 📫 How to reach me - **ayman.alfi098@gmail.com**
+- 📫 How to reach me - **hossainaquib20@gmail.com**
 
-- ⚡ Fun fact - **Sometimes I solve my code problems in my sleep**
+- ⚡ Fun fact - **Coding itself a fun**
 ## 📈Current Stats
-<p align="center"><img align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aayman01&theme=tokyonight&card_width=600&card_height=250" alt="aayman01" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=aquibHossain&theme=tokyonight&card_width=600&card_height=250)" alt="aayman01" /></p>
 
 ## ⚒️Technologies And Skills
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,java,javascript,typescript,nodejs,flatter,express,firebase,mongodb,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,java,javascript,typescript,nodejs,flutter,express,firebase,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" /><br>
 </div>

@@ -1,16 +1,17 @@
-## Hi there 👋
+![logo](https://github.com/aayman01/aayman01/blob/main/Banner.png)
+## 📌About Me
+- 🌱 I’m currently exploring - **Nextjs**
 
-<!--
-**aquibHossain/aquibHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about - **React,Html,Css**
 
-Here are some ideas to get you started:
+- 📫 How to reach me - **ayman.alfi098@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact - **Sometimes I solve my code problems in my sleep**
+## 📈Current Stats
+<p align="center"><img align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aayman01&theme=tokyonight&card_width=600&card_height=250" alt="aayman01" /></p>
+
+## ⚒️Technologies And Skills
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,java,javascript,typescript,nodejs,flatter,express,firebase,mongodb,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" /><br>
+</div>

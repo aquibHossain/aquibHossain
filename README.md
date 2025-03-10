@@ -1,8 +1,8 @@
 ![logo](https://github.com/aquibHossain/aquibHossain/blob/main/banner.png.png)
 ## 📌About Me
-- 🌱 I’m currently exploring - **Flutter**
+- 🌱 I’m currently exploring - **AI**
 
-- 💬 Ask me about - **MARNS Stack**
+- 💬 Ask me about - **MERNS Stack**
 
 - 📫 How to reach me - **hossainaquib20@gmail.com**
 
